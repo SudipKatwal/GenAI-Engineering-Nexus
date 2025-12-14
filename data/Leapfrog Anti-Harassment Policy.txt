@@ -1,0 +1,209 @@
+Leapfrog Anti-Harassment Policy (Nepal)
+1. Introduction
+2. Purpose
+3. Scope
+4. Definitions
+4.1 Harassment:
+4.2 Discrimination
+4.3 Sexual Harassment
+5. Means of Harassment
+5.1 Verbal Harassment:
+5.2 Non-Verbal Harassment:
+5.3 Physical Harassment:
+5.4 Cyber Harassment:
+6. Reporting Mechanism
+7. Investigation Mechanism
+8. Confidentiality
+9. Protection of the Complainant
+10. Retaliation
+11. Response and Resolution
+12. Conciliation
+13. Expectations from Employees
+14. Prevention and Awareness
+15. Disciplinary Action
+16. Additional Clauses
+17. Legal Framework
+18. Revision History
+
+1. Introduction
+At Leapfrog, we are dedicated to creating a workplace where everyone feels safe and respected. Harassment or discrimination of any kind,
+based on things like race, gender, ethnicity, or disability, is simply not tolerated. This policy outlines what harassment looks like and what
+steps you can take to report it.
+
+2. Purpose
+Protect individuals from forms of harassment.
+Ensure all incidents are handled fairly and consistently, promoting a safe and respectful workplace for everyone.
+Establish a clear process for reporting and addressing complaints.
+
+3. Scope
+This policy applies to:
+All employees, from support staff to senior management.
+Contractors, clients, and visitors.
+Work-related activities beyond the office, including remote work, off-site meetings, and company-sponsored social events.
+
+4. Definitions
+This section defines what constitutes harassment, ensuring that all employees understand what behaviors are not tolerated.
+
+4.1 Harassment:
+Harassment covers any remarks or behavior that offends based on race, age, ethnicity, religion, or other protected characteristics, even if
+meant as a joke.
+Examples of inappropriate behavior may include:
+Using profanity or slurs
+Threatening gestures
+Publicly belittling an employee
+
+4.2 Discrimination
+Discrimination is when someone is treated unfairly based on characteristics like origin, religion, gender, or disability. According to The Labor
+Act, 2017 (2074) and The Right to Employment Act, 2075 (2018) of Nepal discrimination based on one’s origin, religion, color, caste,
+ethnicity, sex, language, region, ideology, tribe or similar other ground is prohibited and is considered as a punishable offense.
+
+4.3 Sexual Harassment
+According to Section 4 of the Sexual Harassment at Workplace Prevention Act, sexual harassment is defined as any of the following
+unsolicited acts carried out or caused to be carried out by a person in violation of his or her authority or position, or as a result of the
+imposition of duress, undue influence, or enticement:
+1. Making sexual advances or physical contact
+2. Displaying pornographic content
+3. Expressing sexual intentions through writing, speaking, or nonverbal cues.
+4. Request or suggestion for sexual favors
+5. Harassing or flirting with a sexual intent.
+
+5. Means of Harassment
+5.1 Verbal Harassment:
+Verbal harassment refers to the use of words, insults, or derogatory language to demean, belittle, or intimidate someone. Offensive
+remarks, jokes, or slurs related to someone’s identity (gender, race, religion, etc.).
+Repeatedly making comments about someone’s appearance or background that makes them uncomfortable.
+
+5.2 Non-Verbal Harassment:
+This includes inappropriate gestures, sharing offensive materials (such as images or emails), or non-verbal cues.
+
+5.3 Physical Harassment:
+Unwanted physical contact, such as touching.
+Physical intimidation.
+
+5.4 Cyber Harassment:
+Sending offensive messages or comments online, including through emails or social media.
+
+6. Reporting Mechanism
+If you experience harassment or discrimination, you can report it through Leapfrog’s following Speak-up channels :
+Harassment Reporting: Submit a written complaint including details, witnesses (if any), and supporting evidence via the Harassment
+Reporting form.
+Ask & Share Us Anything: The "Ask & Share Us Anything" form can also be used to report harassment cases to internal teams. Access
+to the form is restricted to the People Management Lead and the SVP of Engineering & Operations, who will ensure confidentiality and
+take appropriate action when needed. The People Management Lead and the SVP of Engineering & Operations shall promptly and
+without delay escalate the complaint to the BoD by filling in the Harassment Reporting form.
+Direct Reporting: Any employee who is a victim or who is aware that harassing conduct is prevailing can report harassment directly to
+their Team Manager or any superiors. It’s the responsibility of the Team Manager and superiors to report the case to People
+Management Lead and the SVP of Engineering & Operations. The People Management Lead and the SVP of Engineering & Operations
+shall promptly and without delay escalate the complaint to the BoD by filling in the Harassment Reporting form.
+If the accused is either SVP, People Management Lead, or the superior, you can skip the hierarchy and scan the QR, and submit the
+complaint/report through the form.
+
+7. Investigation Mechanism
+Formal Investigation: Harassment complaints submitted through the Harassment Reporting form are directly received by Board of
+Directors (BOD) members. Any harassment complaints received through other speak-up channels and authorities need to be also
+escalated to the BoD.
+Upon receiving a complaint, BoD appoints an external legal consultant to form an investigation committee composed of the designated
+BoD members, external legal consultants, and, if any, internal team members. The “external legal consultant” must be a firm or
+individual attorney who is rated “Tier One” in the Chamber and Partners Global rating. The external legal consultant in coordination with
+the committee will then begin a formal investigation, which includes interviewing both the complainant and the accused, as well as
+calling any witnesses and reviewing available evidence. This process must be carried out such that the investigation must be completed
+within 12 days from the receipt of the complaint. The role of “internal team member” shall be limited to secretarial roles and liaising
+between committee members.
+For non-sexual harassment, the BoD may form an internal committee, with no need for an external legal consultant. In sexual
+harassment cases, an external legal consultant will always be appointed.
+Right to Fair Hearing: Both the complainant and the accused will have the right to present their side, provide evidence, and have a
+representative if needed.
+Report Submission: The external legal consultant will submit a report with findings and recommended actions within 12 days from the
+date of receipt of the complaint.
+
+8. Confidentiality
+Protection of Information: All complaints, investigations, and associated proceedings will be kept strictly confidential. The identity of the
+complainant, accused, and witnesses will not be disclosed to anyone other than the BoD and investigation committee.
+Document Security: All investigation records will be securely stored and accessed only by BoD and the investigation committee.
+
+9. Protection of the Complainant
+No Adverse Action: The complainant will not face any adverse consequences, such as demotion, termination, or unfavorable work
+conditions, for solely reporting harassment.
+
+Interim Measures: If necessary, temporary arrangements like changing work shifts or locations will be made to ensure a safe working
+environment while the investigation is ongoing.
+
+10. Retaliation
+Zero Tolerance for Retaliation: Any form of retaliation, such as intimidation, threats, demotion, or dismissal, against a complainant or
+witness is strictly prohibited and will result in disciplinary action.
+Reporting Retaliation: Employees facing retaliation can report it to the superior. Leapfrog will promptly investigate and take appropriate
+actions.
+
+11. Response and Resolution
+Corrective Actions: Depending on the severity of the offense, actions may include counseling, written warnings, suspension, or
+termination.
+Resolution Timeline: The entire process should be concluded within 14 days of the reporting of the harassment.
+
+12. Conciliation
+Voluntary Conciliation: A harassment complaint can be resolved through conciliation provided that both parties consent to a
+conciliation effort.
+Confidential Agreement: If conciliation is successful, the terms of the settlement will remain confidential.
+
+13. Expectations from Employees
+Professional Conduct: All employees are expected to maintain a respectful and professional work environment, free from harassment
+of any kind.
+Bystander Responsibility: Employees witnessing harassment must report it to the superior. Bystanders play a crucial role in preventing
+workplace harassment.
+
+14. Prevention and Awareness
+Regular Training: The company will conduct mandatory training sessions on sexual harassment prevention and employee rights under
+the Nepal Labour Act 2017.
+Policy Communication: All employees will receive a copy of this policy, and it will be included in the company's Knowledge
+Management System, Confluence.
+Workplace Culture: Managers and team leads are expected to foster a culture of respect and openness to ensure employees feel safe
+and heard.
+
+15. Disciplinary Action
+Consequences for Offenders: Based on the investigation's outcome, disciplinary action may include verbal or written warnings,
+suspension, demotion, or termination. Serious offenses may lead to legal action.
+False Complaints: If an investigation reveals that the complaint was maliciously fabricated, the complainant may face disciplinary
+action. However, this may not apply to cases where complaints are unproven due to insufficient evidence.
+
+16. Additional Clauses
+Support for Victims: The company will offer counseling services or external professional help for employees impacted by harassment.
+
+Post-Incident Monitoring: The investigation committee will follow up with both the complainant and the accused after the case's
+resolution to ensure no further issues arise.
+Periodic Review: The policy will be reviewed annually to reflect changes in law or workplace dynamics.
+
+17. Legal Framework
+This policy is developed in alignment with the Nepal Labour Act 2017 and other relevant legal provisions, including the Sexual
+Harassment at Workplace Prevention Act, 2015. Any conflicts between this policy and the law will default to the legal provisions.
+
+18. Revision History
+Date Of Change
+September, 2024
+
+Responsibility
+Dixa Shrestha (Sr.
+
+Summary of Change
+Primary Policy
+
+Approved By
+Kailash Bijayananda
+
+Manager, People
+
+(Senior Vice
+
+Management),
+
+President,
+
+Jyoti Pokharel
+
+Engineering &
+
+(Officer, People
+
+Operations)
+
+Management)
+
+
