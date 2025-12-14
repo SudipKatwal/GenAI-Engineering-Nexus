@@ -1,15 +1,15 @@
-# GenAI Engineering Nexus 🧠🚀
+# GenAI Engineering Nexus
 
 **A Persona-Driven RAG Knowledge Assistant for Engineering Teams.**
 
-This Capstone project demonstrates a production-ready **Retrieval-Augmented Generation (RAG)** application designed to solve knowledge fragmentation in technical teams. It leverages the latest **LangChain (v0.3)** stack, **Google Gemini 1.5**, and **In-Memory Vector Databases** for instant, zero-setup deployment.
+This Capstone project demonstrates a production-ready **Retrieval-Augmented Generation (RAG)** application designed to solve knowledge fragmentation in technical teams. It leverages the latest **LangChain (v1.1.3)** stack, **Google Gemini 2.5**, and **ChromaDB Vector Databases** for instant, zero-setup deployment.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 ### 1. Problem Identification: The "Knowledge Silo"
-**The Real-World Problem:** Modern engineering teams suffer from scattered documentation. Critical information—API specs, refund policies, server mitigation steps—is buried in PDFs, text files, and wikis.
+**The Real-World Problem:** Modern engineering teams suffer from scattered documentation. Critical information-API specs, refund policies, server mitigation steps-is buried in text files.
 * **Engineers** waste time searching for error codes.
 * **Product Managers** struggle to find feature constraints.
 * **SREs** need instant access to disaster recovery protocols during outages.
@@ -28,7 +28,7 @@ The system was built with technical robustness and portability in mind:
 * **Orchestration:** `LangChain` (LCEL) for managing the retrieval pipeline.
 * **Vector Store:** `ChromaDB` (In-Memory mode) for fast, lock-free embedding storage.
 * **Embeddings:** `HuggingFace (all-MiniLM-L6-v2)` running locally (free & private).
-* **LLM:** `Google Gemini 1.5 Flash` for high-speed, low-cost inference.
+* **LLM:** `Google Gemini 2.5 Flash` for high-speed, low-cost inference.
 
 ### 4. Tech-Driven Insight
 This project provided hands-on experience with the modern GenAI stack:
@@ -42,15 +42,15 @@ This project provided hands-on experience with the modern GenAI stack:
 
 | Component | Tool Used | Why? |
 | :--- | :--- | :--- |
-| **LLM** | Google Gemini 1.5 Flash | High speed, large context window, cost-effective. |
-| **Orchestration** | LangChain (v0.3) | Standard industry framework for chaining LLM logic. |
+| **LLM** | Google Gemini 2.5 Flash | High speed, large context window, cost-effective. |
+| **Orchestration** | LangChain (v1.1.3) | Standard industry framework for chaining LLM logic. |
 | **Embeddings** | HuggingFace (`all-MiniLM`) | Runs locally on CPU, no API limits, high privacy. |
-| **Vector DB** | ChromaDB (In-Memory) | Zero setup, no file-lock errors, instant testing. |
+| **Vector DB** | ChromaDB | Zero setup, no file-lock errors, instant testing. |
 | **UI** | Streamlit | Rapid prototyping for data apps. |
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 This project is designed to "just work." No database installation required.
 
@@ -59,4 +59,31 @@ This project is designed to "just work." No database installation required.
 git clone <repository-url>
 cd GenAI-Engineering-Nexus
 python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate # On Windows: venv\Scripts\activate
+```
+
+## Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## Configure API Key
+
+Create a .env file in the root folder and add your Google Gemini API Key:
+
+```bash
+GOOGLE_API_KEY="AIzaSy..."
+```
+
+## Run the App
+
+```bash
+python -m streamlit run app.py
+```
+
+## If you want to remove DB
+
+```bash
+rm -rf chroma_db chroma_db_persistent
+```
